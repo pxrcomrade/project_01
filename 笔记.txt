@@ -1,0 +1,26 @@
+git status 
+
+git status -s
+
+git add index.html
+
+git commit -m "提交"
+
+git check out -- index.html  //撤销对文件进行修改  （把对工作区中对应文件的修改，还原成Git 仓库中所保存的版本）
+
+
+git add.       //如果需要暂存的文件个数过多 可以使用这个命令
+
+git reset HEAD //要移除的文件名称
+
+
+
+
+
+
+
+
+
+
+
+
